@@ -1,3 +1,5 @@
+#Notatki z zajęć
+
 Sprawdzanie statusu
 git status
 
