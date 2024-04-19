@@ -2,13 +2,13 @@
 Sprawdzanie statusu\
 git status
 
-##Tworzenie nowego brancha \
-git switch main \
-git checkout -b "imie" \
-git status \
-git push \
-git push --set-upstream origin "nazwa tego brancha" \
-git status \
+##Tworzenie nowego brancha 
+git switch main 
+git checkout -b "imie" 
+git status 
+git push 
+git push --set-upstream origin "nazwa tego brancha" 
+git status 
 
 
 ##Dodawanie nieśledzonych plików do śledzenia  na github \
