@@ -7,7 +7,7 @@ git switch main\
 git checkout -b "imie"\
 git status\
 git push\
-git push --set-upstream origin <nazwa tego brancha>\
+git push --set-upstream origin "nazwa tego brancha"\
 git status\
 
 
@@ -21,10 +21,10 @@ git commit -m "Tutaj wpisz swoją wiadomość, co jest commit robi, co ma"\
 git push\
 
 ##-- Ewentualnie wysłanie commita na githuba jeśli jest to nowy branch\
-git push --set-upstream origin <nazwa tego brancha>\
+git push --set-upstream origin "nazwa tego brancha"\
 
 ## Przełączanie się po branchach/gałęziach
-git switch <nazwa brancha>
+git switch "nazwa brancha"
 
 ## Wylistowanie dostępnych branchy na remote(github.com)
 git branch -r 
