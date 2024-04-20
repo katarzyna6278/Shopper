@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Karina\\.nuget\\packages\\": {}
+    "C:\\Users\\Karo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+      "projectUniqueName": "C:\\Users\\Karo\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
       "projectName": "ProjektTestowy",
-      "projectPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
-      "packagesPath": "C:\\Users\\Karina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\obj\\",
+      "projectPath": "C:\\Users\\Karo\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+      "packagesPath": "C:\\Users\\Karo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Karo\\Shopper\\ProjektTestowy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Karo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
