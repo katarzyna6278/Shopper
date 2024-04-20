@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\",
+  "WorkspaceRootPath": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\users\\karina\\desktop\\shopper\\projekttestowy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\users\\karina\\repos\\shopper\\projekttestowy\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T07:38:31.387Z",
               "EditorCaption": ""
