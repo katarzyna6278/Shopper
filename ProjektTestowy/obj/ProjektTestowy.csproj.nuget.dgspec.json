@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {}
+    "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {
+    "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+        "projectUniqueName": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
         "projectName": "ProjektTestowy",
-        "projectPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
-        "packagesPath": "C:\\Users\\Karina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\obj\\",
+        "projectPath": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+        "packagesPath": "C:\\Users\\KAKASPRZAK\\.nuget\\packages\\",
+        "outputPath": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KAKASPRZAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/Next-Technology/Product.Platform/_packaging/next-Product/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
