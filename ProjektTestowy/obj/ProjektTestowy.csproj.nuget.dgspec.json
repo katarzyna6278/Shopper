@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {}
+    "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {
+    "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+        "projectUniqueName": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
         "projectName": "ProjektTestowy",
-        "projectPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+        "projectPath": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
         "packagesPath": "C:\\Users\\Karina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\obj\\",
+        "outputPath": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",

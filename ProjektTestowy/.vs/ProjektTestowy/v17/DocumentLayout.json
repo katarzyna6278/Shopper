@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\",
+  "WorkspaceRootPath": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\users\\karina\\desktop\\shopper\\projekttestowy\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A300CBD-152E-4903-A496-FF799A9B766D}|..\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj|c:\\users\\karina\\repos\\shopper\\testowyprojekt.specflow\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\users\\karina\\repos\\shopper\\projekttestowy\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A300CBD-152E-4903-A496-FF799A9B766D}|..\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj|c:\\users\\karina\\repos\\shopper\\testowyprojekt.specflow\\testowyprojekt.specflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A300CBD-152E-4903-A496-FF799A9B766D}|..\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj|c:\\users\\karina\\repos\\shopper\\testowyprojekt.specflow\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A300CBD-152E-4903-A496-FF799A9B766D}|..\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj|c:\\users\\karina\\repos\\shopper\\testowyprojekt.specflow\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestowyProjekt.Specflow",
+              "DocumentMoniker": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj",
+              "RelativeDocumentMoniker": "..\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj",
+              "ToolTip": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj",
+              "RelativeToolTip": "..\\TestowyProjekt.Specflow\\TestowyProjekt.Specflow.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T11:40:54.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "..\\TestowyProjekt.Specflow\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\Features\\Calculator.feature",
+              "RelativeToolTip": "..\\TestowyProjekt.Specflow\\Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-20T11:24:23.694Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Karina\\Desktop\\Shopper\\ProjektTestowy\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\TestowyProjekt.Specflow\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "..\\TestowyProjekt.Specflow\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:24:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "..\\TestowyProjekt.Specflow\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\Karina\\repos\\Shopper\\TestowyProjekt.Specflow\\ImplicitUsings.cs",
+              "RelativeToolTip": "..\\TestowyProjekt.Specflow\\ImplicitUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:24:02.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\Karina\\repos\\Shopper\\ProjektTestowy\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T07:38:31.387Z",
               "EditorCaption": ""
