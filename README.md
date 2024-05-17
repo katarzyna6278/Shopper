@@ -33,4 +33,7 @@ git status
 ## Wylistowanie branchy dostępnych lokalnie (te na które się przełączaliśmy lub sami stworzyliśmy)
 `git branch`
 
+## Zresetowania brancha, żeby był taki sam jak main na githubie:
+git reset --hard origin/main
+
 
