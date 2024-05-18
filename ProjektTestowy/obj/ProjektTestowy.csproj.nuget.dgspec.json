@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {}
+    "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {}
   },
   "projects": {
-    "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {
+    "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+        "projectUniqueName": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
         "projectName": "ProjektTestowy",
-        "projectPath": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
-        "packagesPath": "C:\\Users\\KAKASPRZAK\\.nuget\\packages\\",
-        "outputPath": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\obj\\",
+        "projectPath": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+        "packagesPath": "C:\\Users\\Gosia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KAKASPRZAK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gosia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/Next-Technology/Product.Platform/_packaging/next-Product/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +34,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
