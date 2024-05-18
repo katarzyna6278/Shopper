@@ -39,6 +39,7 @@ git status
 `git pull` - wciągnij zmiany z remote na main (wciągasz tylko i wyłacznie dane na brancha na którym jesteś)
 `git switch <twój branch>` - przenieś się na inny branch 
 `git reset --hard origin/main` - zresetuj swój branch żeby był 1:1 do main
+`git push -f` 
 
 ## Wylistowanie ostatnich commitów
 `git log` - wylistowanie commitów, 
