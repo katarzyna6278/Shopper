@@ -34,6 +34,10 @@ git status
 `git branch`
 
 ## Zresetowania brancha, żeby był taki sam jak main na githubie:
-git reset --hard origin/main
+`git fetch` - sprawdź czy istnieją zmiany na githubie/ na remote
+`git switch main` - przełączenie na maina
+`git pull` - wciągnij zmiany z remote na main
+`git switch <twój branch>` - przenieś się na inny branch 
+`git reset --hard origin/main` - zresetuj swój branch żeby był 1:1 do main
 
 
