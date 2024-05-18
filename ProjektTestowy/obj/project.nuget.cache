@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "L5zwcUjaeiZjoHw/J88ximphWZb/dTUKziFwMRQ23pqFlstVeggus/7aVRAc4Fhzjopk7GhPviXrU/t731SiXA==",
+  "dgSpecHash": "MZ8e5+7oWjpWbtlBNGYiCDTWLYwI3zfGXHN/s1j4kG84lTMlDXm8l6i3kye++wGrmMkCvGuL05jJBfYzLLGt0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tavar\\Documents\\github\\Shopper\\ProjektTestowy\\ProjektTestowy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tavar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\tavar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\tavar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
