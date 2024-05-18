@@ -33,7 +33,7 @@ git status
 ## Wylistowanie branchy dostępnych lokalnie (te na które się przełączaliśmy lub sami stworzyliśmy)
 `git branch`
 
-## Zresetowania brancha, żeby był taki sam jak main na githubie:
+## Zresetowanie brancha, żeby był taki sam jak main na githubie:
 `git fetch` - sprawdź czy istnieją zmiany na githubie/ na remote
 `git switch main` - przełączenie na maina
 `git pull` - wciągnij zmiany z remote na main
