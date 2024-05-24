@@ -14,16 +14,16 @@ namespace SpecFlowCalculatorProject.StepDefinitions
             _scenarioContext = scenarioContext;
         }
 
-        [Given("first number is 1")]
-        public void GivenTheFirstNumberIs()
+        [Given("first number is (.*)")]
+        public void GivenTheFirstNumberIs(int firstNumber)
         {
-            _calculator.FirstNumber = 1;
+            _calculator.FirstNumber = firstNumber;
         }
 
-        [Given("second number is 2")]
-        public void GivenTheSecondNumberIs()
+        [Given("second number is (.*)")]
+        public void GivenTheSecondNumberIs(int secondNumber)
         {
-            _calculator.SecondNumber = 2;
+            _calculator.SecondNumber = secondNumber;
         }
 
         [When("two numbers are added")]
@@ -32,10 +32,29 @@ namespace SpecFlowCalculatorProject.StepDefinitions
             _result = _calculator.Add();
         }
 
-        [Then("the result is 3")]
-        public void ThenTheResultIs()
+        [Then("the result is (.*)")]
+        public void ThenTheResultIs(int thirdNumber)
         {
-            _result.Should().Be(3);
+            _result.Should().Be(thirdNumber);
+        }
+
+        [When("two numbers are subtracted")]
+        public void WhenTwoNumbersAreSubtracted()
+        {
+            _result = _calculator.Subtract();
+        }
+
+        [When(@"two numbers are multiply")]
+        public void WhenTwoNumbersAreMultiply()
+        {
+            _result = _calculator.Multiply();
+        }
+
+        [When(@"two numbers are divided")]
+        public void WhenTwoNumbersAreDivided()
+        {
+            _result = _calculator.Divide();
         }
     }
 }
+

@@ -1,4 +1,8 @@
 # Notatki z zajęć
+
+Odpalenie terminala - w lupce na np windowsie wpisz `cmd` lub `wiersz poleceń` lub `command prompt` 
+Żeby przenieść się do danego folderu użyj komendy `cd` <ścieżka do folderu> na przykład `cd C:\CyberTrainees\Shopper`
+
 Sprawdzanie statusu
 
 git status
@@ -34,11 +38,14 @@ git status
 `git branch`
 
 ## Zresetowanie brancha, żeby był taki sam jak main na githubie:
-`git fetch` - sprawdź czy istnieją zmiany na githubie/ na remote (wciągasz dane na brancha na któyrym jesteś i sprawdzasz czy inne branche posiadają zmiany do wciągnięcia)
-`git switch main` - przełączenie na maina
-`git pull` - wciągnij zmiany z remote na main (wciągasz tylko i wyłacznie dane na brancha na którym jesteś)
-`git switch <twój branch>` - przenieś się na inny branch 
-`git reset --hard origin/main` - zresetuj swój branch żeby był 1:1 do main
+`git add .` - git będzie obserwował wszystkie zmiany na branchu,
+`git stash` - schowaj zmiany na aktualnym branchu do "szufladki", 
+`git fetch` - sprawdź czy istnieją zmiany na githubie/ na remote (wciągasz dane na brancha na któyrym jesteś i sprawdzasz czy inne branche posiadają zmiany do wciągnięcia), 
+`git switch main` - przełączenie na maina, 
+`git pull` - wciągnij zmiany z remote na main (wciągasz tylko i wyłacznie dane na brancha na którym jesteś), 
+`git switch <twój branch>` - przenieś się na inny branch, 
+`git reset --hard origin/main` - zresetuj swój branch żeby był 1:1 do main, 
+`git push -f`  - wypchnij zmiany "na siłę" (-f)
 
 ## Wylistowanie ostatnich commitów
 `git log` - wylistowanie commitów, 
