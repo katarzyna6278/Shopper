@@ -1,4 +1,8 @@
 # Notatki z zajęć
+
+Odpalenie terminala - w lupce na np windowsie wpisz `cmd` lub `wiersz poleceń` lub `command prompt` 
+Żeby przenieść się do danego folderu użyj komendy `cd` <ścieżka do folderu> na przykład `cd C:\CyberTrainees\Shopper`
+
 Sprawdzanie statusu
 
 git status
