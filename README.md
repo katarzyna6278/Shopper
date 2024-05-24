@@ -34,6 +34,7 @@ git status
 `git branch`
 
 ## Zresetowanie brancha, żeby był taki sam jak main na githubie:
+`git add .` - git będzie obserwował wszystkie zmiany na branchu,
 `git stash` - schowaj zmiany na aktualnym branchu do "szufladki", 
 `git fetch` - sprawdź czy istnieją zmiany na githubie/ na remote (wciągasz dane na brancha na któyrym jesteś i sprawdzasz czy inne branche posiadają zmiany do wciągnięcia), 
 `git switch main` - przełączenie na maina, 
