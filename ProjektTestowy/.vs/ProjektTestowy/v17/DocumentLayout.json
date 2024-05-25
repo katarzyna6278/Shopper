@@ -3,12 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\users\\gosia\\desktop\\cyber trainees\\shopper\\projekttestowy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{549BDEE3-1F95-48B9-9FA3-464F598B3B66}|..\\SpecFlowCalculatorProject\\SpecFlowCalculatorProject.csproj|c:\\users\\gosia\\desktop\\cyber trainees\\shopper\\specflowcalculatorproject\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\users\\gosia\\desktop\\cyber trainees\\shopper\\projekttestowy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{549BDEE3-1F95-48B9-9FA3-464F598B3B66}|..\\SpecFlowCalculatorProject\\SpecFlowCalculatorProject.csproj|c:\\users\\gosia\\desktop\\cyber trainees\\shopper\\specflowcalculatorproject\\features\\calculatorapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549BDEE3-1F95-48B9-9FA3-464F598B3B66}|..\\SpecFlowCalculatorProject\\SpecFlowCalculatorProject.csproj|c:\\users\\gosia\\desktop\\cyber trainees\\shopper\\specflowcalculatorproject\\api\\calculatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +19,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:22:19.8Z",
+              "DocumentIndex": 1,
+              "Title": "CalculatorApi.feature",
+              "DocumentMoniker": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "ToolTip": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "RelativeToolTip": "..\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAN2SURBVDhPbZTLbxtVFMZ/8/A7jpPYSZ2GOqEW4tWktCogpUKQCkiQSkrKS4gFAoTEonv\u002BBlixqMQKhGADAhZQtSBUICyIRBGJRNoCDbgtdZo48SNO/PaMh3Nn0oaifqMzc\u002Bfc831z5txzr8bt8HjIx2vdCTTS8rZbrCN2DYfLfLBZ5GzdUmE34TjOrULvit0d3kc2MkNEnxKhlHgC7hw0RShDtXOKr6pfcqq2tO13YWw/4dWoyVhkCj1wAt2Y0TT2GprR6\u002BBEQAv7NF9UxgP4tVF2m0keDBRJ\u002B7MsNF36jtAzXQ\u002BR8L\u002BOpT8RMcLJQ/H95nN7ntaytRVGe\u002B/lxdQxba2Z9xVapRhhPUnCMLC4xGy9pOi6KzIdCZDQj8voEVM340EzSCq8h\u002BmhScZ672dy16NMDIwT9/e44YKk2AQDxlM8KwkLPKEnwyPEjcNBPTD4cPygNpU8QtTs4lxhgXanRbFVZjY3x1oj74YLFG\u002BEPv2IcLuUw1Q3wQGxhN/wm4f6HmCif5y5wi\u002BcXHqfzXaFC\u002BU/qdl1ttpbXrSHiBR/mLa7IBe9jBAHBLeEtFBc5LeNizTsppvJRrvMcn2Fisx1\u002B6L0\u002BGL4db/HgpDYiBrcENpuA4263UCKSq6xjt2xxeNdydAuXhqe4YXUNOkul6ug\u002BK7qDaFlsWYi2MfzqaO8kX6ZsZ599PhjxCSD/kBcsvAxGruPN9OvMJl8zGNBS2xdDbxMTvbfQ1z/2NTMg3dF79QSQhwKJTk2NMXp698x3DXEcPgOzqx8z/XaKrnmGlerWdXtcxTs45zI572M3itfIWv9ZDnW6l\u002BVK5yX4tqOzaD8TqFZpNgssTeSkjpVpX6/o3pLkBPOOeG6feQ15LptcThUkSZLdZzOoIgEW7Ls1\u002BrL/FyYl2ILRwquFqHY2pCNJ5PwKyvWh3xW/VtJ7HS2QV4arEJUD0lgX6ldDi9tZfRye5OSkJcqGTZkFWWb2BJ9QbL5lB9qX5Ox3D2yI3TZaqs7/UaOmN5QBMlM9Vm3mpZM1UNl8ocr8m3tC842csqpsCOkkLFs\u002BeRV2fnzNJwM3brq//1i6iMFsUVWrY84U/tcjpJ/5P0mbhVSyMhRM1uvk\u002B\u002BUpG4\u002B8Ywrrxw6p9l03uGTyjf82Ci6sf/B7Q82hQOBIG/1qvZXh9simr3K22WLefV3/wf8C/\u002BxVjxI6YYQAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-05-25T11:22:51.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\ProjektTestowy\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-24T16:57:15.711Z",
+              "DocumentIndex": 0,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "..\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:41:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorApi.cs",
+              "DocumentMoniker": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "ToolTip": "C:\\Users\\Gosia\\Desktop\\Cyber Trainees\\Shopper\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "RelativeToolTip": "..\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvxQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:01:29.538Z",
               "EditorCaption": ""
             }
           ]
