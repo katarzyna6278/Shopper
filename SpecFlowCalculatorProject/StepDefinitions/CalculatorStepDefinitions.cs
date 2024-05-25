@@ -1,4 +1,5 @@
 using ProjektTestowy;
+using SpecFlowCalculatorProject.API;
 
 namespace SpecFlowCalculatorProject.StepDefinitions
 {
@@ -7,6 +8,7 @@ namespace SpecFlowCalculatorProject.StepDefinitions
     {
         private readonly ScenarioContext _scenarioContext;
         private readonly Calculator _calculator = new Calculator();
+        private readonly CalculatorApi _calculatorApi = new CalculatorApi();
         private int _result;
 
         public CalculatorStepDefinitions(ScenarioContext scenarioContext)
@@ -32,6 +34,7 @@ namespace SpecFlowCalculatorProject.StepDefinitions
             _result = _calculator.Add();
         }
 
+        // Wspólny krok do sprawdzania 
         [Then("the result is (.*)")]
         public void ThenTheResultIs(int thirdNumber)
         {
@@ -54,6 +57,25 @@ namespace SpecFlowCalculatorProject.StepDefinitions
         public void WhenTwoNumbersAreDivided()
         {
             _result = _calculator.Divide();
+        }
+
+        // Kroki do sprawdzania Api
+        [Given("first api number is (.*)")]
+        public void GivenTheFirstNumberIsByApi(int firstNumber)
+        {
+            _calculatorApi.FirstNumber = firstNumber;
+        }
+
+        [Given("second api number is (.*)")]
+        public void GivenTheSecondNumberIsByApi(int secondNumber)
+        {
+            _calculatorApi.SecondNumber = secondNumber;
+        }
+
+        [When("two numbers are added by Api")]
+        public async Task WhenNumbersAreAddedByApi()
+        {
+            _result = await _calculatorApi.AddAsync();
         }
     }
 }
