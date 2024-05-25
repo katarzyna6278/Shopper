@@ -15,14 +15,28 @@ namespace ProjektTestowy.Controllers
             _calculator = new Calculator();
         }
 
-
+        // endpoint
         [HttpGet("/Calculator/Add")]
         public int Add(int firstNumber, int secondNumber)
         {
             _calculator.FirstNumber = firstNumber;
             _calculator.SecondNumber = secondNumber;
 
-            return _calculator.Add();
+            var result = _calculator.Add();
+
+            return result;
+        }
+
+        // do zrobienia endpoint do odejmowania
+
+        [HttpGet("/Calculator/Substract")]
+        public int Subtract(int firstNumber, int secondNumber)
+        {
+            _calculator.FirstNumber = firstNumber;
+            _calculator.SecondNumber = secondNumber;
+
+            var result = _calculator.Subtract();
+            return result;
         }
     }
 }

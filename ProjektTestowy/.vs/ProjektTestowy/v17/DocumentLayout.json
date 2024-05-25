@@ -3,11 +3,25 @@
   "WorkspaceRootPath": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\_flexdevacademy\\cybertrainees\\shopper\\projekttestowy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\_flexdevacademy\\cybertrainees\\shopper\\projekttestowy\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{549BDEE3-1F95-48B9-9FA3-464F598B3B66}|..\\SpecFlowCalculatorProject\\SpecFlowCalculatorProject.csproj|c:\\_flexdevacademy\\cybertrainees\\shopper\\specflowcalculatorproject\\features\\calculatorapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549BDEE3-1F95-48B9-9FA3-464F598B3B66}|..\\SpecFlowCalculatorProject\\SpecFlowCalculatorProject.csproj|c:\\_flexdevacademy\\cybertrainees\\shopper\\specflowcalculatorproject\\api\\calculatorapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{549BDEE3-1F95-48B9-9FA3-464F598B3B66}|..\\SpecFlowCalculatorProject\\SpecFlowCalculatorProject.csproj|c:\\_flexdevacademy\\cybertrainees\\shopper\\specflowcalculatorproject\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|c:\\_flexdevacademy\\cybertrainees\\shopper\\projekttestowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43AED5ED-8ED7-4242-8D68-26259FB241B8}|ProjektTestowy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +30,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 289,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 167,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,28 +39,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T10:55:37.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:42:48.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CalculatorStepDefinitions.cs",
               "DocumentMoniker": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "RelativeDocumentMoniker": "..\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "ToolTip": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
               "RelativeToolTip": "..\\SpecFlowCalculatorProject\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:31:19.925Z",
+              "WhenOpened": "2024-05-25T10:08:33.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CalculatorApi.cs",
+              "DocumentMoniker": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "RelativeDocumentMoniker": "..\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "ToolTip": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "RelativeToolTip": "..\\SpecFlowCalculatorProject\\API\\CalculatorApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:01:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorApi.feature",
+              "DocumentMoniker": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "RelativeDocumentMoniker": "..\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "ToolTip": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "RelativeToolTip": "..\\SpecFlowCalculatorProject\\Features\\CalculatorApi.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-25T10:06:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CalculatorController.cs",
               "DocumentMoniker": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\Controllers\\CalculatorController.cs",
               "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
               "ToolTip": "C:\\_FlexDevAcademy\\CyberTrainees\\Shopper\\ProjektTestowy\\Controllers\\CalculatorController.cs",
               "RelativeToolTip": "Controllers\\CalculatorController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T17:22:12.639Z",
+              "WhenOpened": "2024-05-25T10:24:31.194Z",
               "EditorCaption": ""
             }
           ]
